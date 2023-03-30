@@ -1,16 +1,30 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**felipesergiob/felipesergiob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Developer {
+  final String username;
+  final String name;
+  final String email;
+  final List<String> social;
+  final Map<String, dynamic> code;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Developer()
+      : username = 'felipesergiob',
+        name = 'Felipe Sérgio Barroso',
+        email = 'felipessmbf@gmail.com',
+        social = [
+          'https://toshiossada.dev/',
+          'https://www.linkedin.com/in/toshiossada/',
+          'https://toshiossada.medium.com/',
+          'https://instagram.com/toshiossada',
+          'https://www.facebook.com/ToshiOssada/',
+        ],
+        code = {
+          'mobile': ['Flutter'],
+          'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript'],
+          'tools': [
+            'GIT',
+            'GitHub',
+          ],
+          'misc': ['Firebase']
+        };
+}
