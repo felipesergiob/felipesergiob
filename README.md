@@ -4,6 +4,6 @@ Hi, I'm Felipe
 
 I'm currently studying computer science at Cesar School. 👨🏻‍💻
 
-•📚 I’m currently learning Flutter <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+•📚 I’m currently learning   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 •📫 How to reach me felipessmbf@gmail.com
