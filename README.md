@@ -9,5 +9,5 @@ I'm currently studying computer science at Cesar School. 👨🏻‍💻
 
 ### GitHub Stats
 
-[![](https://raw.githubusercontent.com/felipesergiob/github-stats-transparent/output/generated/overview.svg)](#felipe-sergio-title)
-[![](https://raw.githubusercontent.com/felipesergiob/github-stats-transparent/output/generated/languages.svg)](#felipe-sergio-title)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesergiob)
+
