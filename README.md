@@ -4,8 +4,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 <div align="center">  
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=felipesergiob&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesergiob&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
