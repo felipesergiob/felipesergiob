@@ -8,7 +8,7 @@
 <br/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipesergiob&show_icons=true&theme=transparent"/> 
-  <img width="100%" src="https://metrics.lecoq.io/felipesergiob?template=classic&config.timezone=America%2FSao_Paulo&habits=1&habits.from=200+contributions&habits.days=14&habits.facts=true&habits.charts=true" alt="GitHub Coding Habits"/>
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=felipesergiob&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 <br/>
 <div align="center">  
