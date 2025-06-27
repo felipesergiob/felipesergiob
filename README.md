@@ -11,7 +11,7 @@
 <br/>
 <div align="center">  
   <a href="https://www.linkedin.com/in/felipesergiob" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:felipessmbf@gmail.com?subject=Olá Felipe! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="felipessmbf@gmail.com" /></a>
+  <a href="mailto:felipessmbf@gmail.com?subject=Olá Felipe! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="felipessmbf@gmail.com"/></a>
 </div>
 <br/>
 
