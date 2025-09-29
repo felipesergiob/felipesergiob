@@ -6,6 +6,12 @@
 <br/>
 
 <div align="center">  
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesergiob&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">  
   <a href="https://www.linkedin.com/in/felipesergiob" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:felipessmbf@gmail.com?subject=Olá Felipe! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="felipessmbf@gmail.com"/></a>
 </div>
